@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome All to Github actions session on october 28th</h2>
+<h2>Welcome All to Github Actions session</h2>
 </body>
 </html>
